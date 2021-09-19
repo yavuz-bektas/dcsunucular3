@@ -42,7 +42,7 @@ The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which take
 ## FAQ
 ![Dash](/image/sssfullpage.png)
 
-## Add Server Page
+## Add Server Page
 ![Dash](/image/sunucuekle.png)
 
 
