@@ -29,11 +29,14 @@ The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which take
 * Please don't use jQuery or jQuery based plugins since there are many pure Vue alternatives
 
 
-## :paperclip: Prerequisites
+## :paperclip: Ready For Use Solutions
 
-Before getting started you should have the following installed and running:
-
-- [X] Yarn - [instructions](https://yarnpkg.com/en/docs/install)
-- [X] Vue CLI 3 - [instructions](https://cli.vuejs.org/guide/installation.html)
-- [X] Python 3 - [instructions](https://wiki.python.org/moin/BeginnersGuide)
-- [X] Pipenv - [instructions](https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv)
+- [X] Login - Login panel
+- [X] Account - Account Panel
+- [X] FAQ - is a powerful knowledge base for your project with user. friendly navigation and search features.
+- [X] Error - “404” page template
+- [X] Comment - Add comment and follow with admin Panel
+- [X] Home Page - Home Page
+- [X] Top20 - Top20
+- [X] Categories - Categories side
+- [X] Add Data - follow the wizard
