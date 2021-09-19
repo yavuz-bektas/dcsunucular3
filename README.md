@@ -40,3 +40,5 @@ The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which take
 - [X] Top20 - Top20
 - [X] Categories - Categories side
 - [X] Add Data - follow the wizard
+
+
