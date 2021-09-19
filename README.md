@@ -63,6 +63,7 @@ The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which take
 - [X] Add Data - follow the wizard
 
 # Demo
+## How to add data?
 ![Dash](https://media.giphy.com/media/SVqgOSM80h8TqKFUdx/giphy.gif?cid=790b7611a739572dd9268bd423fae8493cfe3da93840f7f8&rid=giphy.gif&ct=g)
 
 
