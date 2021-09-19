@@ -27,3 +27,13 @@ The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which take
 ## :clipboard: Contribution guide
 * `npm install` or `yarn install`
 * Please don't use jQuery or jQuery based plugins since there are many pure Vue alternatives
+
+
+## :paperclip: Prerequisites
+
+Before getting started you should have the following installed and running:
+
+- [X] Yarn - [instructions](https://yarnpkg.com/en/docs/install)
+- [X] Vue CLI 3 - [instructions](https://cli.vuejs.org/guide/installation.html)
+- [X] Python 3 - [instructions](https://wiki.python.org/moin/BeginnersGuide)
+- [X] Pipenv - [instructions](https://pipenv.readthedocs.io/en/latest/install/#installing-pipenv)
