@@ -3,6 +3,7 @@
 ##### The dashboard includes several plugins/components.
 
 
+## Main Dashboard
 ![Dash](/image/mainpagefull.png)
 
 ## :rocket: Getting started
@@ -30,6 +31,19 @@ The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which take
 ## :clipboard: Contribution guide
 * `npm install` or `yarn install`
 * Please don't use jQuery or jQuery based plugins since there are many pure Vue alternatives
+
+
+## Categories Dashboard
+![Dash](/image/categoriesfull.png)
+
+## Details Page for each post.
+![Dash](/image/detail.png)
+
+## FAQ
+![Dash](/image/sssfullpage.png)
+
+## Add Server Page
+![Dash](/image/sunucuekle.png)
 
 
 ## :paperclip: Ready For Use Solutions
