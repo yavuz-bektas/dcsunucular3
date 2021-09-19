@@ -3,7 +3,7 @@
 ##### The dashboard includes several plugins/components.
 
 
-## Main Dashboard
+## Main DashBoard
 ![Dash](/image/mainpagefull.png)
 
 ## :rocket: Getting started
