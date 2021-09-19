@@ -2,6 +2,9 @@
 > Template based on custom UI template + vuex-mongodb-router-expressjs
 ##### The dashboard includes several plugins/components.
 
+
+![Dash](/image/sssfullpage.png)
+
 ## :rocket: Getting started
 
 1. Download the project
