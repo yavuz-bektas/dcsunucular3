@@ -63,7 +63,17 @@ The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which take
 - [X] Add Data - follow the wizard
 
 # Demo
-## How to add data?
+## How to add new server?
 ![Dash](https://media.giphy.com/media/SVqgOSM80h8TqKFUdx/giphy.gif?cid=790b7611a739572dd9268bd423fae8493cfe3da93840f7f8&rid=giphy.gif&ct=g)
+
+## How to add comment for server?
+![Dash](https://media.giphy.com/media/DCWEa4i6NdZd7zn7bx/giphy.gif?cid=790b7611f7d11c9a0b24d8ea5d5ce484839450ed589830f4&rid=giphy.gif&ct=g)
+
+## How to accept post in adminpanel?
+![Dash](https://media.giphy.com/media/rDT4wuzkfRS9lEzEG7/giphy.gif?cid=790b76116a3e4e4f1e7bd35781aa818efc003ad9ceab86bd&rid=giphy.gif&ct=g)
+
+##
+Star my GitHub repo ⭐
+Create pull requests, submit bugs, suggest new features or documentation updates 🔧
 
 
