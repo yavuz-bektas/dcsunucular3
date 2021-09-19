@@ -73,7 +73,5 @@ The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which take
 ![Dash](https://media.giphy.com/media/rDT4wuzkfRS9lEzEG7/giphy.gif?cid=790b76116a3e4e4f1e7bd35781aa818efc003ad9ceab86bd&rid=giphy.gif&ct=g)
 
 ##
-Star my GitHub repo ⭐
-Create pull requests, submit bugs, suggest new features or documentation updates 🔧
-
+Star my GitHub repo ⭐  to continue improving
 
