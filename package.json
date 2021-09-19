@@ -1,0 +1,32 @@
+{
+  "name": "dcsunucular3",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "server": "nodemon server"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/moment": "^1.6.1",
+    "@nuxtjs/proxy": "^2.1.0",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "core-js": "^3.12.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "js-cookie": "^2.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.9",
+    "nuxt": "^2.14.12",
+    "nuxt-use-motion": "^1.5.1",
+    "vue-sweetalert2": "^4.3.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^4.1.2",
+    "postcss": "^8.2.15"
+  }
+}
