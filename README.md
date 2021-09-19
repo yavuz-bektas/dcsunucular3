@@ -3,7 +3,7 @@
 ##### The dashboard includes several plugins/components.
 
 
-![Dash](/image/sssfullpage.png)
+![Dash](/image/mainpagefull.png)
 
 ## :rocket: Getting started
 
