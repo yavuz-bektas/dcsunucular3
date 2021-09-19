@@ -45,6 +45,10 @@ The repo uses [vue-cli](https://github.com/vuejs/vue-cli) scaffolding which take
 ## Add Server Page
 ![Dash](/image/sunucuekle.png)
 
+## Admin Dashboard
+![Dash](/image/admindash.png)
+![Dash](/image/adminonay.png)
+
 
 ## :paperclip: Ready For Use Solutions
 
